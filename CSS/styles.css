@@ -1,0 +1,158 @@
+.gmail:hover{
+  opacity: 0.6;
+}
+.linkedin:hover{
+  opacity: 0.6;
+}
+body {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  color: #40514E;
+}
+p {
+  line-height: 1.5;
+  color: grey;
+}
+h1 {
+  font-size: 4.375rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.50rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+hr{
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 5%;
+}
+
+.bottom-container{
+  background-color:  #eaf6f6;
+  padding: 50px 0 20px;
+}
+.btn{
+  color: #11999E;
+  position: relative;
+  bottom: 3px;
+  text-decoration: underline;
+}
+.copyright{
+  color: #11999E;
+}
+.contact-me {
+  position: relative;
+  bottom: 40px;
+}
+
+.footer-link {
+  color: grey;
+  position: relative;
+  bottom: 5px;
+  padding-right: 10px;
+
+}
+.footer-link1{
+  color: grey;
+  position: relative;
+  bottom: 5px;
+  padding-left: 10px;
+}
+
+.header1 {
+
+  margin: 50px auto 20px auto;
+
+}
+
+.header2 {
+  position: relative;
+  bottom: 90px;
+}
+
+.image {
+  width: 45%;
+  float: left;
+  margin: auto 20px auto 20px;
+}
+
+.image1 {
+  width: 45%;
+  float: right;
+  margin: auto 20px auto 20px;
+}
+
+
+.pro {
+  color: green;
+}
+
+.profile {
+  padding-top: 70px;
+}
+.linkedin{
+  background-color: white;
+}
+.middle-cloud {
+  position: absolute;
+  top: 120px;
+  left: 150px;
+}
+
+.new {
+  margin-right: 150px;
+}
+
+.skillrow{
+  width: 25%;
+  position: relative;
+}
+
+.skill-row {
+
+  margin: 90px auto 90px auto;
+  text-align: left;
+  position: relative;
+  right: 300px;
+}
+
+.skill-row1 {
+
+  margin: 90px auto 90px auto;
+  text-align: left;
+  position: relative;
+  left: 300px;
+  bottom: 100px;
+}
+
+.skill-row2 {
+
+  margin: 90px auto 90px auto;
+  text-align: left;
+  position: relative;
+  right: 300px;
+  bottom: 100px;
+}
+
+.top_container {
+  background-color: #eaf6f6;
+  position: relative;
+  padding-top: 180px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 120px;
+  top: 30px;
+}
